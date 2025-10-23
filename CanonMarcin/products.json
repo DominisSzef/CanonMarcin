@@ -1,0 +1,416 @@
+[
+  {
+    "nazwa": "Canon i-SENSYS LBP223dw",
+    "slug": "i-sensys-lbp223dw",
+    "link": "https://bestcan.pl/produkt/i-sensys-lbp-223dw-2/",
+    "typ": "laser",
+    "format": "A4",
+    "kolor": "mono",
+    "predkosc": 33
+  },
+  {
+    "nazwa": "Canon i-SENSYS LBP226dw",
+    "slug": "i-sensys-lbp226dw",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "laser",
+    "format": "A4",
+    "kolor": "mono",
+    "predkosc": 38
+  },
+  {
+    "nazwa": "Canon i-SENSYS LBP236dw",
+    "slug": "i-sensys-lbp236dw",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "laser",
+    "format": "A4",
+    "kolor": "mono",
+    "predkosc": 40
+  },
+  {
+    "nazwa": "Canon i-SENSYS LBP325x",
+    "slug": "i-sensys-lbp325x",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "laser",
+    "format": "A4",
+    "kolor": "mono",
+    "predkosc": 43
+  },
+  {
+    "nazwa": "Canon i-SENSYS LBP352x",
+    "slug": "i-sensys-lbp352x",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "laser",
+    "format": "A4",
+    "kolor": "mono",
+    "predkosc": 62
+  },
+  {
+    "nazwa": "Canon i-SENSYS LBP622Cdw",
+    "slug": "i-sensys-lbp622cdw",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "laser",
+    "format": "A4",
+    "kolor": "kolor",
+    "predkosc": 21
+  },
+  {
+    "nazwa": "Canon i-SENSYS LBP663Cdw",
+    "slug": "i-sensys-lbp663cdw",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "laser",
+    "format": "A4",
+    "kolor": "kolor",
+    "predkosc": 27
+  },
+  {
+    "nazwa": "Canon i-SENSYS LBP673Cdw",
+    "slug": "i-sensys-lbp673cdw",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "laser",
+    "format": "A4",
+    "kolor": "kolor",
+    "predkosc": 33
+  },
+  {
+    "nazwa": "Canon i-SENSYS MF445dw",
+    "slug": "i-sensys-mf445dw",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "mfp",
+    "format": "A4",
+    "kolor": "mono",
+    "predkosc": 38
+  },
+  {
+    "nazwa": "Canon i-SENSYS MF455dw",
+    "slug": "i-sensys-mf455dw",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "mfp",
+    "format": "A4",
+    "kolor": "mono",
+    "predkosc": 40
+  },
+  {
+    "nazwa": "Canon i-SENSYS MF269dw",
+    "slug": "i-sensys-mf269dw",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "mfp",
+    "format": "A4",
+    "kolor": "mono",
+    "predkosc": 28
+  },
+  {
+    "nazwa": "Canon i-SENSYS MF643Cdw",
+    "slug": "i-sensys-mf643cdw",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "mfp",
+    "format": "A4",
+    "kolor": "kolor",
+    "predkosc": 21
+  },
+  {
+    "nazwa": "Canon i-SENSYS MF742Cdw",
+    "slug": "i-sensys-mf742cdw",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "mfp",
+    "format": "A4",
+    "kolor": "kolor",
+    "predkosc": 27
+  },
+  {
+    "nazwa": "Canon i-SENSYS MF754Cdw",
+    "slug": "i-sensys-mf754cdw",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "mfp",
+    "format": "A4",
+    "kolor": "kolor",
+    "predkosc": 33
+  },
+  {
+    "nazwa": "Canon imageRUNNER 2425i",
+    "slug": "imagerunner-2425i",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "kopiarka",
+    "format": "A3",
+    "kolor": "mono",
+    "predkosc": 25
+  },
+  {
+    "nazwa": "Canon imageRUNNER 2630i",
+    "slug": "imagerunner-2630i",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "kopiarka",
+    "format": "A3",
+    "kolor": "mono",
+    "predkosc": 30
+  },
+  {
+    "nazwa": "Canon imageRUNNER 2645i",
+    "slug": "imagerunner-2645i",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "kopiarka",
+    "format": "A3",
+    "kolor": "mono",
+    "predkosc": 45
+  },
+  {
+    "nazwa": "Canon imageRUNNER 2206N",
+    "slug": "imagerunner-2206n",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "kopiarka",
+    "format": "A3",
+    "kolor": "mono",
+    "predkosc": 22
+  },
+  {
+    "nazwa": "Canon imageRUNNER ADVANCE DX C3826i",
+    "slug": "ir-adv-dx-c3826i",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "mfp",
+    "format": "A3",
+    "kolor": "kolor",
+    "predkosc": 26
+  },
+  {
+    "nazwa": "Canon imageRUNNER ADVANCE DX C3830i",
+    "slug": "ir-adv-dx-c3830i",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "mfp",
+    "format": "A3",
+    "kolor": "kolor",
+    "predkosc": 30
+  },
+  {
+    "nazwa": "Canon imageRUNNER ADVANCE DX C3835i",
+    "slug": "ir-adv-dx-c3835i",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "mfp",
+    "format": "A3",
+    "kolor": "kolor",
+    "predkosc": 35
+  },
+  {
+    "nazwa": "Canon imageRUNNER ADVANCE DX C5840i",
+    "slug": "ir-adv-dx-c5840i",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "mfp",
+    "format": "A3",
+    "kolor": "kolor",
+    "predkosc": 40
+  },
+  {
+    "nazwa": "Canon imageRUNNER ADVANCE DX C5850i",
+    "slug": "ir-adv-dx-c5850i",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "mfp",
+    "format": "A3",
+    "kolor": "kolor",
+    "predkosc": 50
+  },
+  {
+    "nazwa": "Canon imageRUNNER ADVANCE DX C5860i",
+    "slug": "ir-adv-dx-c5860i",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "mfp",
+    "format": "A3",
+    "kolor": "kolor",
+    "predkosc": 60
+  },
+  {
+    "nazwa": "Canon imageRUNNER ADVANCE DX 4735i",
+    "slug": "ir-adv-dx-4735i",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "kopiarka",
+    "format": "A3",
+    "kolor": "mono",
+    "predkosc": 35
+  },
+  {
+    "nazwa": "Canon imageRUNNER ADVANCE DX 4751i",
+    "slug": "ir-adv-dx-4751i",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "kopiarka",
+    "format": "A3",
+    "kolor": "mono",
+    "predkosc": 51
+  },
+  {
+    "nazwa": "Canon i-SENSYS X 1238P",
+    "slug": "i-sensys-x-1238p",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "laser",
+    "format": "A4",
+    "kolor": "mono",
+    "predkosc": 38
+  },
+  {
+    "nazwa": "Canon i-SENSYS X C1127i",
+    "slug": "i-sensys-x-c1127i",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "mfp",
+    "format": "A4",
+    "kolor": "kolor",
+    "predkosc": 27
+  },
+  {
+    "nazwa": "Canon i-SENSYS X 1643P",
+    "slug": "i-sensys-x-1643p",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "laser",
+    "format": "A4",
+    "kolor": "mono",
+    "predkosc": 43
+  },
+  {
+    "nazwa": "Canon i-SENSYS X C1333i",
+    "slug": "i-sensys-x-c1333i",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "mfp",
+    "format": "A4",
+    "kolor": "kolor",
+    "predkosc": 33
+  },
+  {
+    "nazwa": "Canon i-SENSYS X C1333iF",
+    "slug": "i-sensys-x-c1333if",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "mfp",
+    "format": "A4",
+    "kolor": "kolor",
+    "predkosc": 33
+  },
+  {
+    "nazwa": "Canon MAXIFY GX6040",
+    "slug": "maxify-gx6040",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "mfp",
+    "format": "A4",
+    "kolor": "kolor",
+    "predkosc": 24
+  },
+  {
+    "nazwa": "Canon MAXIFY GX7040",
+    "slug": "maxify-gx7040",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "mfp",
+    "format": "A4",
+    "kolor": "kolor",
+    "predkosc": 24
+  },
+  {
+    "nazwa": "Canon imageRUNNER C3226i",
+    "slug": "imagerunner-c3226i",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "mfp",
+    "format": "A3",
+    "kolor": "kolor",
+    "predkosc": 26
+  },
+  {
+    "nazwa": "Canon imageRUNNER C3125i",
+    "slug": "imagerunner-c3125i",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "mfp",
+    "format": "A3",
+    "kolor": "kolor",
+    "predkosc": 25
+  },
+  {
+    "nazwa": "Canon imageRUNNER 2700",
+    "slug": "imagerunner-2700",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "kopiarka",
+    "format": "A3",
+    "kolor": "mono",
+    "predkosc": 27
+  },
+  {
+    "nazwa": "Canon imageRUNNER 2725",
+    "slug": "imagerunner-2725",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "kopiarka",
+    "format": "A3",
+    "kolor": "mono",
+    "predkosc": 25
+  },
+  {
+    "nazwa": "Canon imageRUNNER 2745",
+    "slug": "imagerunner-2745",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "kopiarka",
+    "format": "A3",
+    "kolor": "mono",
+    "predkosc": 45
+  },
+  {
+    "nazwa": "Canon i-SENSYS MF651Cw",
+    "slug": "i-sensys-mf651cw",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "mfp",
+    "format": "A4",
+    "kolor": "kolor",
+    "predkosc": 18
+  },
+  {
+    "nazwa": "Canon i-SENSYS MF655Cdw",
+    "slug": "i-sensys-mf655cdw",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "mfp",
+    "format": "A4",
+    "kolor": "kolor",
+    "predkosc": 21
+  },
+  {
+    "nazwa": "Canon i-SENSYS LBP633Cdw",
+    "slug": "i-sensys-lbp633cdw",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "laser",
+    "format": "A4",
+    "kolor": "kolor",
+    "predkosc": 21
+  },
+  {
+    "nazwa": "Canon i-SENSYS LBP351x",
+    "slug": "i-sensys-lbp351x",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "laser",
+    "format": "A4",
+    "kolor": "mono",
+    "predkosc": 55
+  },
+  {
+    "nazwa": "Canon i-SENSYS LBP214dw",
+    "slug": "i-sensys-lbp214dw",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "laser",
+    "format": "A4",
+    "kolor": "mono",
+    "predkosc": 38
+  },
+  {
+    "nazwa": "Canon imageRUNNER ADVANCE DX 527i",
+    "slug": "ir-adv-dx-527i",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "mfp",
+    "format": "A4",
+    "kolor": "mono",
+    "predkosc": 52
+  },
+  {
+    "nazwa": "Canon imageRUNNER ADVANCE DX C257i",
+    "slug": "ir-adv-dx-c257i",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "mfp",
+    "format": "A4",
+    "kolor": "kolor",
+    "predkosc": 25
+  },
+  {
+    "nazwa": "Canon imageRUNNER ADVANCE DX C477i",
+    "slug": "ir-adv-dx-c477i",
+    "link": "https://bestcan.pl/katalog/",
+    "typ": "mfp",
+    "format": "A4",
+    "kolor": "kolor",
+    "predkosc": 47
+  }
+]
