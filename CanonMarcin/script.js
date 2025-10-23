@@ -19,7 +19,7 @@
 })();
 
 async function fetchProducts(){
-  const res = await fetch('products.json', {cache:'no-store'});
+  const res = await fetch('products.json?v=' + Date.now(), {cache:'no-store'});
   if(!res.ok) throw new Error('fetch error');
   return res.json();
 }
