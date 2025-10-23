@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dominisszef.github.io/CanonMarcin/sitemap.xml
