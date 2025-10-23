@@ -39,3 +39,61 @@ a.link-underline:hover::after{width:100%}
 .kicker{color:var(--muted); text-transform:uppercase; letter-spacing:.16rem; font-size:.78rem}
 .logo img{height:34px}
 .product .h6{margin:0 0 6px}
+/* ==========================
+   Styl selectów (filtry)
+   ========================== */
+select.input {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  width: 100%;
+  max-width: 220px;
+  padding: 0.6rem 2.5rem 0.6rem 0.8rem;
+  border-radius: 10px;
+  border: 1px solid var(--ring);
+  font-size: 0.95rem;
+  font-weight: 500;
+  background-color: var(--surface);
+  color: var(--text);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='14' height='14' fill='%23aaaaaa'><path d='M4 6l3 3 3-3z'/></svg>");
+  background-repeat: no-repeat;
+  background-position: right 0.8rem center;
+  background-size: 0.8rem;
+}
+
+select.input:hover {
+  border-color: var(--brand);
+  box-shadow: 0 0 6px rgba(225, 6, 0, 0.25);
+}
+
+select.input:focus {
+  outline: none;
+  border-color: var(--brand);
+  box-shadow: 0 0 0 2px rgba(225, 6, 0, 0.3);
+}
+
+/* Opcje wewnątrz listy */
+select.input option {
+  background-color: var(--surface);
+  color: var(--text);
+  padding: 0.5rem;
+}
+
+/* Ciemny motyw */
+:root.dark select.input {
+  background-color: var(--surface);
+  color: var(--text);
+  border-color: var(--ring);
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='14' height='14' fill='%23cccccc'><path d='M4 6l3 3 3-3z'/></svg>");
+}
+
+/* Jasny motyw */
+:root.light select.input {
+  background-color: var(--surface);
+  color: var(--text);
+  border-color: var(--ring);
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='14' height='14' fill='%23333333'><path d='M4 6l3 3 3-3z'/></svg>");
+}
+
